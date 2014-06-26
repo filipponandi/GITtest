@@ -25,4 +25,8 @@ class HelloWorld {
 function hello() {
 	
 }
+
+function aa() {
+	echo "ciao";
+}
 ?>
