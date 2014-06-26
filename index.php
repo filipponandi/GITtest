@@ -17,4 +17,12 @@ class HelloWorld {
 	private function doNothing() {
 		return null;
 	}
+	
+	protected function doubleTest() {
+	}
 }
+
+function hello() {
+	
+}
+?>
