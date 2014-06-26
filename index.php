@@ -27,6 +27,6 @@ function hello() {
 }
 
 function aa() {
-	echo "ciao";
+	echo "ciao ";
 }
 ?>
