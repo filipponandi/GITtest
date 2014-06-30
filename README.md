@@ -1,4 +1,4 @@
 GITtest
 =======
 
-modificato in locale
+modificato in remoto
