@@ -1,8 +1,4 @@
 GITtest
 =======
 
-First test!
-
-eek
-
-serious test!
+modificato in locale
